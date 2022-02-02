@@ -1,5 +1,5 @@
 {
-  "global": {
+  "NewsKit Light": {
     "NK-NewsKit": {
       "transparent": {
         "value": "#ffffff00",
@@ -61,47 +61,47 @@
       },
       "ink": {
         "inkBase": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral090}",
           "type": "color",
           "description": "Body and paragraphs"
         },
         "inkContrast": {
-          "value": "{NK-NewsKit.palettes.tints.white}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral100}",
           "type": "color",
           "description": "Headlines or copy where emphasis is needed"
         },
         "inkSubtle": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral040}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
           "type": "color",
           "description": "Subheadlines, labels and supporting copy"
         },
         "inkNonEssential": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral070}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral050}",
           "type": "color",
           "description": "Text elements in their inactive (disabled) state"
         },
         "inkInverse": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral090}",
+          "value": "{NK-NewsKit.palettes.tints.white}",
           "type": "color",
           "description": "Used when contrast with the background can't be achieved"
         },
         "inkPositive": {
-          "value": "{NK-NewsKit.palettes.green.green040}",
+          "value": "{NK-NewsKit.palettes.green.green080}",
           "type": "color",
           "description": "For scenarios where the message needs positive intent"
         },
         "inkNegative": {
-          "value": "{NK-NewsKit.palettes.red.red040}",
+          "value": "{NK-NewsKit.palettes.red.red070}",
           "type": "color",
           "description": "For scenarios where the message needs negative intent"
         },
         "inkNotice": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral040}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
           "type": "color",
           "description": "For scenarios where the message needs a negative intent"
         },
         "inkInformative": {
-          "value": "{NK-NewsKit.palettes.teal.teal050}",
+          "value": "{NK-NewsKit.palettes.teal.teal070}",
           "type": "color",
           "description": "For scenarios where the message needs to be informative"
         },
@@ -111,40 +111,40 @@
           "description": "Text and icons in the primary brand colour"
         },
         "inkBrand020": {
-          "value": "{NK-NewsKit.palettes.blue.blue030}",
+          "value": "{NK-NewsKit.palettes.blue.blue080}",
           "type": "color",
           "description": "Text and icons in the secondary brand colour"
         }
       },
       "interface": {
         "interfaceBackground": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral100}",
+          "value": "{NK-NewsKit.palettes.tints.white}",
           "type": "color",
           "description": "Page backgrounds"
         },
         "interface010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral090}",
+          "value": "{NK-NewsKit.palettes.tints.white}",
           "type": "color",
           "description": "Primary component backgrounds e.g. Card background"
         },
         "interface020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral010}",
           "type": "color"
         },
         "interface030": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral070}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral020}",
           "type": "color"
         },
         "interface040": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral060}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
           "type": "color"
         },
         "interface050": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral050}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral040}",
           "type": "color"
         },
         "interface060": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral100}",
           "type": "color",
           "description": "Contrasting background colour"
         },
@@ -154,129 +154,129 @@
           "description": "Primary brand colour"
         },
         "interfaceBrand020": {
-          "value": "{NK-NewsKit.palettes.blue.blue030}",
+          "value": "{NK-NewsKit.palettes.blue.blue090}",
           "type": "color",
           "description": "Secondary brand colour"
         },
         "interfacePositive010": {
-          "value": "{NK-NewsKit.palettes.green.green050}",
+          "value": "{NK-NewsKit.palettes.green.green080}",
           "type": "color",
           "description": "Positive messaging where emphasis is needed. "
         },
         "interfacePositive020": {
-          "value": "{NK-NewsKit.palettes.green.green090}",
+          "value": "{NK-NewsKit.palettes.green.green010}",
           "type": "color",
           "description": "Positive messaging backgrounds"
         },
         "interfaceNegative010": {
-          "value": "{NK-NewsKit.palettes.red.red050}",
+          "value": "{NK-NewsKit.palettes.red.red070}",
           "type": "color",
           "description": "Negative messaging where emphasis is needed. "
         },
         "interfaceNegative020": {
-          "value": "{NK-NewsKit.palettes.red.red090}",
+          "value": "{NK-NewsKit.palettes.red.red010}",
           "type": "color",
           "description": "Negative messaging backgrounds"
         },
         "interfaceNotice010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
           "type": "color",
           "description": "Default messaging where emphasis is needed. "
         },
         "interfaceNotice020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral010}",
           "type": "color",
           "description": "Default messaging backgrounds"
         },
         "interfaceInformative010": {
-          "value": "{NK-NewsKit.palettes.teal.teal050}",
+          "value": "{NK-NewsKit.palettes.teal.teal070}",
           "type": "color",
           "description": "Informative messaging where emphasis is needed. "
         },
         "interfaceInformative020": {
-          "value": "{NK-NewsKit.palettes.teal.teal090}",
+          "value": "{NK-NewsKit.palettes.teal.teal010}",
           "type": "color",
           "description": "Informative messaging backgrounds"
         },
         "interfaceNeutral010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
           "type": "color",
           "description": "Neutral messaging backgrounds where emphasis is needed"
         },
         "interfaceNeutral020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral010}",
           "type": "color",
           "description": "Neutral messaging backgrounds"
         },
         "interfaceSkeleton010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral070}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral020}",
           "type": "color",
           "description": "Interface page load"
         },
         "interfaceSkeleton020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
           "type": "color",
           "description": "Interface page load"
         }
       },
       "interactive": {
         "interactivePrimary010": {
-          "value": "{NK-NewsKit.palettes.blue.blue090}",
+          "value": "{NK-NewsKit.palettes.blue.blue010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Outlined & Minimal  Button"
         },
         "interactivePrimary020": {
-          "value": "{NK-NewsKit.palettes.blue.blue080}",
+          "value": "{NK-NewsKit.palettes.blue.blue020}",
           "type": "color",
           "description": "Background colour applied to the Loading state of all  Buttons , & the Active state of the Outlined & Minimal Button"
         },
         "interactivePrimary030": {
-          "value": "{NK-NewsKit.palettes.blue.blue040}",
+          "value": "{NK-NewsKit.palettes.blue.blue060}",
           "type": "color",
           "description": "Background colour applied to the Base state of the Solid  Button , & the border colour of the Outlined Button"
         },
         "interactivePrimary040": {
-          "value": "{NK-NewsKit.palettes.blue.blue030}",
+          "value": "{NK-NewsKit.palettes.blue.blue070}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Solid  Button , & the border colour of the Outlined Button"
         },
         "interactivePrimary050": {
-          "value": "{NK-NewsKit.palettes.blue.blue020}",
+          "value": "{NK-NewsKit.palettes.blue.blue080}",
           "type": "color",
           "description": "Background colour applied to the Active state of the Solid  Button , & the border colour of the Outlined Button"
         },
         "interactiveSecondary010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Outlined & Minimal"
         },
         "interactiveSecondary020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral070}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral020}",
           "type": "color",
           "description": "Background colour applied to the Loading state of all Buttons, & the Active state of the Outlined & Minimal Button"
         },
         "interactiveSecondary030": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral040}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
           "type": "color",
           "description": "Background colour applied to the Base state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveSecondary040": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral030}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral090}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveSecondary050": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral020}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral100}",
           "type": "color",
           "description": "Background colour applied to the Active state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactivePositive010": {
-          "value": "{NK-NewsKit.palettes.green.green100}",
+          "value": "{NK-NewsKit.palettes.green.green010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Outlined & Minimal Button"
         },
         "interactivePositive020": {
-          "value": "{NK-NewsKit.palettes.green.green090}",
+          "value": "{NK-NewsKit.palettes.green.green020}",
           "type": "color",
           "description": "Background colour applied to the Loading state of all Buttons, & the Active state of the Outlined & Minimal Button"
         },
@@ -286,97 +286,97 @@
           "description": "Background colour applied to the Base state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactivePositive040": {
-          "value": "{NK-NewsKit.palettes.green.green050}",
+          "value": "{NK-NewsKit.palettes.green.green070}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactivePositive050": {
-          "value": "{NK-NewsKit.palettes.green.green040}",
+          "value": "{NK-NewsKit.palettes.green.green080}",
           "type": "color",
           "description": "Background colour applied to the Active state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveNegative010": {
-          "value": "{NK-NewsKit.palettes.red.red090}",
+          "value": "{NK-NewsKit.palettes.red.red010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Outlined & Minimal Button"
         },
         "interactiveNegative020": {
-          "value": "{NK-NewsKit.palettes.red.red080}",
+          "value": "{NK-NewsKit.palettes.red.red020}",
           "type": "color",
           "description": "Background colour applied to the Loading state of all Buttons, & the Active state of the Outlined & Minimal Button"
         },
         "interactiveNegative030": {
-          "value": "{NK-NewsKit.palettes.red.red050}",
+          "value": "{NK-NewsKit.palettes.red.red060}",
           "type": "color",
           "description": "Background colour applied to the Base state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveNegative040": {
-          "value": "{NK-NewsKit.palettes.red.red060}",
+          "value": "{NK-NewsKit.palettes.red.red070}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveNegative050": {
-          "value": "{NK-NewsKit.palettes.red.red070}",
+          "value": "{NK-NewsKit.palettes.red.red080}",
           "type": "color",
           "description": "Background colour applied to the Active state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveDisabled010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral020}",
           "type": "color",
           "description": "Disabled states"
         },
         "interactiveVisited010": {
-          "value": "{NK-NewsKit.palettes.purple.purple040}",
+          "value": "{NK-NewsKit.palettes.purple.purple050}",
           "type": "color",
           "description": "Visited states"
         },
         "interactiveInverse010": {
-          "value": "{NK-NewsKit.palettes.tints.blackTint010}",
+          "value": "{NK-NewsKit.palettes.tints.whiteTint010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Outlined & Minimal Button"
         },
         "interactiveInverse020": {
-          "value": "{NK-NewsKit.palettes.tints.blackTint020}",
+          "value": "{NK-NewsKit.palettes.tints.whiteTint020}",
           "type": "color",
           "description": "Background colour applied to the Loading state of all Buttons, & the Active state of the Outlined & Minimal Button"
         },
         "interactiveInverse030": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral090}",
+          "value": "{NK-NewsKit.palettes.tints.white}",
           "type": "color",
           "description": "Background colour applied to the Base state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveInverse040": {
-          "value": "{NK-NewsKit.palettes.tints.blackTint070}",
+          "value": "{NK-NewsKit.palettes.tints.whiteTint070}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveInverse050": {
-          "value": "{NK-NewsKit.palettes.tints.blackTint080}",
+          "value": "{NK-NewsKit.palettes.tints.whiteTint080}",
           "type": "color",
           "description": "Background colour applied to the Active state of the Solid Button, & the border colour of the Outlined Button"
         },
         "interactiveInput010": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral080}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral010}",
           "type": "color",
           "description": "Background colour applied to the Hover state of the Text Input, the Select component button & the list item"
         },
         "interactiveInput020": {
-          "value": "{NK-NewsKit.palettes.neutral.neutral060}",
+          "value": "{NK-NewsKit.palettes.neutral.neutral040}",
           "type": "color",
           "description": "Background & border colours applied to the Unselected state of the Switch, the Checkbox, & Radio components"
         },
         "interactiveInput030": {
-          "value": "{NK-NewsKit.palettes.blue.blue070}",
+          "value": "{NK-NewsKit.palettes.blue.blue010}",
           "type": "color",
           "description": "Background colour applied to the 'Feedback' of the Checkbox & Radio components"
         },
         "interactiveInput040": {
-          "value": "{NK-NewsKit.palettes.blue.blue040}",
+          "value": "{NK-NewsKit.palettes.blue.blue060}",
           "type": "color",
           "description": "Background & border colours applied to the Selected state of the Switch, the Checkbox, & Radio components"
         },
         "interactiveInput050": {
-          "value": "{NK-NewsKit.palettes.blue.blue030}",
+          "value": "{NK-NewsKit.palettes.blue.blue070}",
           "type": "color",
           "description": "Active state background and border for selection controls & input components"
         }
@@ -1228,7 +1228,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Default states of cards and active states of buttons"
     },
     "shadow020": {
       "value": {
@@ -1239,7 +1240,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Notification badges"
     },
     "shadow030": {
       "value": {
@@ -1250,7 +1252,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Navigation menu bars"
     },
     "shadow040": {
       "value": {
@@ -1261,7 +1264,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Hover states of cards and button hover states"
     },
     "shadow050": {
       "value": {
@@ -1272,7 +1276,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Pickers and popovers"
     },
     "shadow060": {
       "value": {
@@ -1283,7 +1288,8 @@
         "color": "rgba({NK-NewsKit.palettes.neutral.neutral100}, 8%)",
         "type": "dropShadow"
       },
-      "type": "boxShadow"
+      "type": "boxShadow",
+      "description": "Modals and dialogs"
     },
     "fontLetterSpacing010": {
       "value": "-0.5px",
